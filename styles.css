@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(136, 136, 194);
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    
+    font-family: "Brush Script MT", "Lucida Handwriting";
+}
+
+ul{
+    
+    font-size: 24px;
+    
+    display: inline-block;
+    
+}
+ol {
+    text-align: center;
+    display: inline-block;
+}
