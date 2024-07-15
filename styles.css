@@ -1,21 +1,41 @@
-* {
+body {
     background-color: rgb(136, 136, 194);
     text-align: center;
+    
+}
+body.main-menu:link {
+    
+    color:red;
+}
+body.main-menu:visited {
+    color: rgb(17, 255, 0);
+}
+body.main-menu:hover {
+    color:brown;
+}
+body.main-menu:active{
+    color:blue
 }
 h1 {
     font-size: 50px;
     
     font-family: "Brush Script MT", "Lucida Handwriting";
 }
-
+a {
+    font-size: 80px
+}
 ul{
     
     font-size: 24px;
-    
+    color: rgb(0, 255, 85);
     display: inline-block;
     
 }
 ol {
     text-align: center;
     display: inline-block;
+}
+.main-menu {
+    color:rgb(255, 0, 170);
+    font-size: 80px;
 }
